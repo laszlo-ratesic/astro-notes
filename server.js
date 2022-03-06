@@ -14,5 +14,5 @@ app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {
-    console.log(gradient.instagram(`API server now on port ${PORT}`));
+    console.log(gradient.instagram(`API server now on port ${PORT} || http://localhost:${PORT}`));
 })
