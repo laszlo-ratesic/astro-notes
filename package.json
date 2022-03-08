@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "gradient-string": "^2.0.0"
+    "gradient-string": "^2.0.0",
+    "uuid": "^8.3.2"
   }
 }
