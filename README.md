@@ -41,7 +41,7 @@ Locate the dropdown menu labeled 'Code' to the left of the About section in the 
 Replacing the above placeholder with the link copied from GitHub. This will clone the repository into a local directory on your machine. And that's it! Happy Hacking! 🚀
 
 ## 👨‍🏫 Usage
-This code is strictly for use by the Bloodfury Dominion faction of demons and is only provided as material for study and otherwise double-checking implementation of various programming functionality. Any violations of these use cases will see the offender sent through the bloodgate, devoured by dragons, and eternally made fun of by the wood elves shortly thereafter. Screenshots of original mockup are included.
+This code is strictly for use by astro-cats and their respective litters of kittens, but not their kitten litter, kittens' litters, or kittens' litter's kittens and is only provided as material for study and otherwise double-checking implementation of various server-side and back-end functionality such as but not limited to API routes, express servers, node module exports, and other shenanigans. Any violations of these use cases will see the offender sent through the airlock, relegated to an escape pod that will be sent into deep space to drift along a lonely eternity through the endless cosmos. Screenshots of original mockup are included.
 
    ![Mockup of Astro Notes.](./public/assets/images/mockup.gif)
 
