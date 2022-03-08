@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "👋 Welcome!",
+      "text": "Welcome to Astro Notes! I hope you enjoy using this latest creation. Happy note-taking!\n\n-laszlo-ratesic",
+      "id": "3"
+    },
+    {
+      "title": "🧰 Get Started",
+      "text": "To get started, go ahead and hit the + icon in the top right corner to empty the current note field.\n\nBe sure to enter a title for your note and some text into the body.\n\nOnce you're satisfied with the results, you can press the floppy disk icon to save the note, and that's it!\n\nGo ahead and give it a try!\n\n-laszlo-ratesic",
+      "id": "3"
+    },
+    {
+      "title": "🗑️ Deleting Notes",
+      "text": "To delete a note, press the trash can icon next to the note's title in the list of saved notes. \n\nFeel free to delete these boilerplate note guides to make room for your own!\n\n-laszlo-ratesic",
+      "id": "3"
+    }
+  ]
 }
