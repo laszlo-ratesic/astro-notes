@@ -43,7 +43,7 @@ Replacing the above placeholder with the link copied from GitHub. This will clon
 ## 👨‍🏫 Usage
 This code is strictly for use by the Bloodfury Dominion faction of demons and is only provided as material for study and otherwise double-checking implementation of various programming functionality. Any violations of these use cases will see the offender sent through the bloodgate, devoured by dragons, and eternally made fun of by the wood elves shortly thereafter. Screenshots of original mockup are included.
 
-   ![Mockup of Astro Notes.](./assets/images/mockup.gif)
+   ![Mockup of Astro Notes.](./public/assets/images/mockup.gif)
 
 ## 🥂 Credits
 UT Austin Coding Boot Camp https://techbootcamps.utexas.edu/coding/
